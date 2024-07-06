@@ -1,0 +1,19 @@
+zurich
+milan
+liverpool
+london
+manchester
+paris
+madrid
+valencia
+barcelona
+rome
+turin
+bologna
+berlin
+haifa
+tel aviv
+jerusalem
+ramat gan
+beijing
+tokyo
